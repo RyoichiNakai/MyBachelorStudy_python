@@ -1,2 +1,3 @@
 # MyBachelorStudy_python
-This repository is for my study when I was in college
+This repository is for my study using Blockchain when I was in college
+
